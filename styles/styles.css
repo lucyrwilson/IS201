@@ -1,0 +1,15 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(197, 225, 249);
+    color: rgb(9, 24, 47);
+}
+h1{
+    background-color: white;
+    text-align: center;
+}
+li{
+    font-weight: normal;
+}
+.bold{
+    font-weight: bolder;
+}
